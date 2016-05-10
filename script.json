@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the support bot for EBW Technology, an IT Support Company in Dallas.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the support bot for EBW Technology, an IT Support Company in Dallas.\n![ebw](http://ebwtechnology.com/wp-content/uploads/2015/10/smallEBWlogo.png)\nWould you like to put a ticket in? %[Yes, Open Ticket](postback:Open_support_ticket) %[No, Just Testing](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Are you currently having any issues"? %[Yes](postback:twitter)",
     "YES": "Let's message @ EBWTechnology so they know you need to open a ticket: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
